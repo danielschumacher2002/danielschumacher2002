@@ -20,6 +20,6 @@
 ### 🚀 Projects
 
 - 📊 **Finance Calculator** — Tool to calculate various financial metrics (compound interest, loan repayment, etc.)  
-- 💼 **Portfolio** *(Coming Soon)* — Showcasing my work, statistics, and order tracking
+- 📈 **Stock Portfolio Tracker** *(Coming Soon)* — Track and analyze my stock holdings, performance, and statistics
 
 
