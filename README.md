@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Daniel Schumacher 👋
 
-<!--
-**danielschumacher2002/danielschumacher2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 What I Do
 
-Here are some ideas to get you started:
+- 💻 **Frontend Development**
+- 🎨 **UI Engineering** — React • Tailwind CSS • Component Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Tech Stack
+
+**Languages:** JavaScript • TypeScript • Python • SQL  
+**Frontend:** React • Next.js • ailwind CSS  
+**Backend:** Node.js  
+**Testing:** Jest  
+**Design:** Figma  
+
+---
+
+### 🚀 Projects
+
+- 📊 **Finance Calculator** — Tool to calculate various financial metrics (compound interest, loan repayment, etc.)  
+- 💼 **Portfolio** *(Coming Soon)* — Showcasing my work, statistics, and order tracking
+
+
