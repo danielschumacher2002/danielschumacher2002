@@ -10,7 +10,7 @@
 ### 🔥 Tech Stack
 
 **Languages:** JavaScript • TypeScript • Python • SQL  
-**Frontend:** React • Next.js • ailwind CSS  
+**Frontend:** React • Next.js • Tailwind CSS  
 **Backend:** Node.js  
 **Testing:** Jest  
 **Design:** Figma  
