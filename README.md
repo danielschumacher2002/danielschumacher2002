@@ -27,7 +27,7 @@
 
 ### 🚀 Projects
 
-- 📊 **Finance Wizard** — Tool to calculate various financial metrics (compound interest, loan repayment, etc.)  
+- 📊 **Finance Wizard** — Ultimate finace tool 
 - 📈 **Stock Portfolio Tracker** *(Coming Soon)* — Track and analyze my stock holdings, performance, and statistics
 
 
