@@ -1,9 +1,13 @@
 ## Hi, I'm Daniel Schumacher 👋
 
 ### 💡 What I Do
+💻 Frontend Development
 
-- 💻 **Frontend Development**
-- 🎨 **UI Engineering** — React • Tailwind CSS • Component Architecture
+🎨 UI Engineering — React • Tailwind CSS • Component Architecture
+
+⚙️ Backend Engineering (learning) — Node.js • Rest • GraphQL
+
+🗄️ Databases (learning) — PostgreSQL • MongoDB
 
 ---
 
