@@ -27,7 +27,7 @@
 
 ### 🚀 Projects
 
-- 📊 **Finance Wizard** — Ultimate finace tool 
+- 📊 **Finance Wizard** — Ultimate finance tool 
 - 📈 **Stock Portfolio Tracker** *(Coming Soon)* — Track and analyze my stock holdings, performance, and statistics
 
 
